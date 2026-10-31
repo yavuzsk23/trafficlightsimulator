@@ -8,11 +8,11 @@ class Program
         string color = Console.ReadLine();
 
         if (color == "red")
-            Console.WriteLine("stop");
+            Console.WriteLine("stop ");
         else if (color == "yellow")
-            Console.WriteLine("get ready");
+            Console.WriteLine("get ready ");
         else if (color == "green")
-            Console.WriteLine("go");
+            Console.WriteLine("go ");
         else
             Console.WriteLine("ınvalid color");
     }
