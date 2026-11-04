@@ -10,10 +10,3 @@ Eine kleine Ampelsimulation in C# – zu Lernzwecken.
 
 c# dan trafik ışığı simülasyonu küçük, eğitim amaçlıdır
 
-
-
-10.sinifta
-Kosedag Savaşı
-Anadolu Selçuklu kurulması 
-Büyük Selçuklu yıkılması kronolojik sıralama
-Malazgirt savaşı sonuclari
